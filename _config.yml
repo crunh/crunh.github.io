@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Mauricio Urraco
 description: Jekyll Theme Minimal Resume
@@ -14,3 +15,6 @@ email: mauriurraco@gmail.com
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 443512a2d70d2a2f19a4fa3057890cac89da8759
